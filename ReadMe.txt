@@ -1,0 +1,15 @@
+GRAPHICS/FRAMEWORK FINAL EXAM
+Hassan Assaf
+Due Dec. 18th
+
+MY DUNGEON:
+https://watabou.github.io/one-page-dungeon/?seed=1023998362
+
+PRESS ESCAPE UNLOCK/LOCK THE MOUSE
+
+WASD Movement (q/e up down)
+
+Hit LOAD to start
+
+F6 WILL LOCK YOUR CAMERA TO THE NEXT BEHOLDER
+F7 WILL START A BEHOLDER FIGHT
