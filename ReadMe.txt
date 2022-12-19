@@ -1,15 +1,12 @@
-GRAPHICS/FRAMEWORK FINAL EXAM
+Networking Project 3
 Hassan Assaf
 Due Dec. 18th
 
-MY DUNGEON:
-https://watabou.github.io/one-page-dungeon/?seed=1023998362
+Run server first then up to four clients afterwards.
+
+Click "Game" to have control of the character
 
 PRESS ESCAPE UNLOCK/LOCK THE MOUSE
 
-WASD Movement (q/e up down)
-
-Hit LOAD to start
-
-F6 WILL LOCK YOUR CAMERA TO THE NEXT BEHOLDER
-F7 WILL START A BEHOLDER FIGHT
+WASD Movement (q/e up down) 
+SPACE TO SHOOT
